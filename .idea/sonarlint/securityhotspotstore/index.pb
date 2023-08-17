@@ -12,3 +12,15 @@ O
 src/sistemaSmartTV/SmartTv.java,c\6\c62a29c56e466e9eadd1d02c2a655956713ee81f
 O
 src/sistemaSmartTV/Usuario.java,c\6\c66b5490c21ab411f08c86a644b3cc273e9ee39f
+]
+-src/estruturaCondicional/CaixaEletronico.java,b\f\bfdc702ccfc5e40db790bf14e8a9b4050ec3b932
+^
+.src/estruturaCondicional/ResultadoEscolar.java,d\7\d753973f8c5f37bba232893ca41ec1e88bae0c35
+\
+,src/estruturasRepeticao/ExemploForArray.java,9\0\90862cdc7433be4f85803384a42a8224725da39e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+W
+'src/estruturasRepeticao/SintaxeFOR.java,f\4\f4b986d6626f306d1d30462d0dcf297a6d649be6

@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Estudos sobre estrutura condicional, construcao de um sistema de resultado escolar onde o sistema recebe 3 notas e faz a média, se for maior que 7 o aluno aparece como aprovado, se não o aluno aparece como reprovado.">
-      <change afterPath="$PROJECT_DIR$/src/estruturasRepeticao/ExemploForArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estruturasRepeticao/SintaxeFOR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bfdc702ccfc5e40db790bf14e8a9b4050ec3b932" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d753973f8c5f37bba232893ca41ec1e88bae0c35" beforeDir="false" />
+    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Estrutura de repeticao FOR e Arrays">
+      <change afterPath="$PROJECT_DIR$/src/extruturasDeExcecao/CepInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extruturasDeExcecao/ExemploExcecao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extruturasDeExcecao/FormatadorDeCEPexemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extruturasDeExcecao/SobreMim.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/f/bfdc702ccfc5e40db790bf14e8a9b4050ec3b932" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/7/d753973f8c5f37bba232893ca41ec1e88bae0c35" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -61,16 +59,17 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExemploForArray">
-    <configuration name="CaixaEletronico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaCondicional.CaixaEletronico" />
+  <component name="RunManager" selected="Application.FormatadorDeCEPexemplo">
+    <configuration name="ExemploExcecao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extruturasDeExcecao.ExemploExcecao" />
       <module name="BootcampSantander-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturaCondicional.*" />
+          <option name="PATTERN" value="extruturasDeExcecao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResultadoEscolar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaCondicional.ResultadoEscolar" />
+    <configuration name="FormatadorDeCEPexemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extruturasDeExcecao.FormatadorDeCEPexemplo" />
       <module name="BootcampSantander-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturaCondicional.*" />
+          <option name="PATTERN" value="extruturasDeExcecao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Usuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sistemaSmartTV.Usuario" />
+    <configuration name="SobreMim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extruturasDeExcecao.SobreMim" />
       <module name="BootcampSantander-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sistemaSmartTV.*" />
+          <option name="PATTERN" value="extruturasDeExcecao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FormatadorDeCEPexemplo" />
+        <item itemvalue="Application.ExemploExcecao" />
+        <item itemvalue="Application.SobreMim" />
         <item itemvalue="Application.ExemploForArray" />
         <item itemvalue="Application.SintaxeFOR" />
-        <item itemvalue="Application.ResultadoEscolar" />
-        <item itemvalue="Application.CaixaEletronico" />
-        <item itemvalue="Application.Usuario" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +150,8 @@
       <workItem from="1692201106968" duration="1664000" />
       <workItem from="1692203383342" duration="4333000" />
       <workItem from="1692275892624" duration="1666000" />
-      <workItem from="1692279077985" duration="1003000" />
+      <workItem from="1692279077985" duration="1365000" />
+      <workItem from="1692280522235" duration="4345000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro ola mundo do bootcamp">
       <option name="closed" value="true" />
@@ -193,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692277460750</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Estrutura de repeticao FOR e Arrays">
+      <option name="closed" value="true" />
+      <created>1692280366693</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692280366693</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +224,7 @@
     <MESSAGE value="Aprendendo a sintaxe para declarar metodos" />
     <MESSAGE value="Sistema de smartTV usando poo" />
     <MESSAGE value="Estudos sobre estrutura condicional, construcao de um sistema de resultado escolar onde o sistema recebe 3 notas e faz a média, se for maior que 7 o aluno aparece como aprovado, se não o aluno aparece como reprovado." />
-    <option name="LAST_COMMIT_MESSAGE" value="Estudos sobre estrutura condicional, construcao de um sistema de resultado escolar onde o sistema recebe 3 notas e faz a média, se for maior que 7 o aluno aparece como aprovado, se não o aluno aparece como reprovado." />
+    <MESSAGE value="Estrutura de repeticao FOR e Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estrutura de repeticao FOR e Arrays" />
   </component>
 </project>
