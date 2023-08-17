@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Estudos sobre estrutura condicional, construcao de um sistema de resultado escolar onde o sistema recebe 3 notas e faz a média, se for maior que 7 o aluno aparece como aprovado, se não o aluno aparece como reprovado." />
+    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Estudos sobre estrutura condicional, construcao de um sistema de resultado escolar onde o sistema recebe 3 notas e faz a média, se for maior que 7 o aluno aparece como aprovado, se não o aluno aparece como reprovado.">
+      <change afterPath="$PROJECT_DIR$/src/estruturasRepeticao/ExemploForArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasRepeticao/SintaxeFOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bfdc702ccfc5e40db790bf14e8a9b4050ec3b932" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d753973f8c5f37bba232893ca41ec1e88bae0c35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/f/bfdc702ccfc5e40db790bf14e8a9b4050ec3b932" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/7/d753973f8c5f37bba232893ca41ec1e88bae0c35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +64,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ResultadoEscolar">
+  <component name="RunManager" selected="Application.ExemploForArray">
     <configuration name="CaixaEletronico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estruturaCondicional.CaixaEletronico" />
       <module name="BootcampSantander-Java" />
@@ -68,9 +78,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinhaClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinhaClasse" />
+    <configuration name="ExemploForArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.ExemploForArray" />
       <module name="BootcampSantander-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturasRepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,9 +104,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SintaxeMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SintaxeMetodos" />
+    <configuration name="SintaxeFOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.SintaxeFOR" />
       <module name="BootcampSantander-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturasRepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploForArray" />
+        <item itemvalue="Application.SintaxeFOR" />
         <item itemvalue="Application.ResultadoEscolar" />
         <item itemvalue="Application.CaixaEletronico" />
         <item itemvalue="Application.Usuario" />
-        <item itemvalue="Application.SintaxeMetodos" />
-        <item itemvalue="Application.MinhaClasse" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +151,7 @@
       <workItem from="1692201106968" duration="1664000" />
       <workItem from="1692203383342" duration="4333000" />
       <workItem from="1692275892624" duration="1666000" />
+      <workItem from="1692279077985" duration="1003000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro ola mundo do bootcamp">
       <option name="closed" value="true" />

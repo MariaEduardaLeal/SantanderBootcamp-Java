@@ -12,7 +12,3 @@ O
 src/sistemaSmartTV/SmartTv.java,c\6\c62a29c56e466e9eadd1d02c2a655956713ee81f
 O
 src/sistemaSmartTV/Usuario.java,c\6\c66b5490c21ab411f08c86a644b3cc273e9ee39f
-]
--src/estruturaCondicional/CaixaEletronico.java,b\f\bfdc702ccfc5e40db790bf14e8a9b4050ec3b932
-^
-.src/estruturaCondicional/ResultadoEscolar.java,d\7\d753973f8c5f37bba232893ca41ec1e88bae0c35
