@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Sistema de smartTV usando poo">
-      <change afterPath="$PROJECT_DIR$/src/estruturaCondicional/CaixaEletronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estruturaCondicional/ResultadoEscolar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Estudos sobre estrutura condicional, construcao de um sistema de resultado escolar onde o sistema recebe 3 notas e faz a média, se for maior que 7 o aluno aparece como aprovado, se não o aluno aparece como reprovado." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +128,7 @@
       <updated>1692201106189</updated>
       <workItem from="1692201106968" duration="1664000" />
       <workItem from="1692203383342" duration="4333000" />
-      <workItem from="1692275892624" duration="1347000" />
+      <workItem from="1692275892624" duration="1666000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro ola mundo do bootcamp">
       <option name="closed" value="true" />
@@ -166,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692222987726</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Estudos sobre estrutura condicional, construcao de um sistema de resultado escolar onde o sistema recebe 3 notas e faz a média, se for maior que 7 o aluno aparece como aprovado, se não o aluno aparece como reprovado.">
+      <option name="closed" value="true" />
+      <created>1692277460750</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692277460750</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +192,7 @@
     <MESSAGE value="Regras para declaracao de variaveis" />
     <MESSAGE value="Aprendendo a sintaxe para declarar metodos" />
     <MESSAGE value="Sistema de smartTV usando poo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sistema de smartTV usando poo" />
+    <MESSAGE value="Estudos sobre estrutura condicional, construcao de um sistema de resultado escolar onde o sistema recebe 3 notas e faz a média, se for maior que 7 o aluno aparece como aprovado, se não o aluno aparece como reprovado." />
+    <option name="LAST_COMMIT_MESSAGE" value="Estudos sobre estrutura condicional, construcao de um sistema de resultado escolar onde o sistema recebe 3 notas e faz a média, se for maior que 7 o aluno aparece como aprovado, se não o aluno aparece como reprovado." />
   </component>
 </project>

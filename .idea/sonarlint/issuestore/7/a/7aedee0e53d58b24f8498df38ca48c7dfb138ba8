@@ -1,0 +1,22 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó‚øÁøÿÿÿÿ8š«—ùŸ1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿª€8š«—ùŸ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¦¶¾8›«—ùŸ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ³äûÿÿÿÿ8›«—ùŸ1
+^
+java:S1854"<Remove this useless assignment to local variable "ANO_2000".(Æ³äûÿÿÿÿ8¾«—ùŸ1
+c
+java:S1854"FRemove this useless assignment to local variable "ESTADOS_BRASILEIRO".(­¦¶¾8¾«—ùŸ1
+R
+java:S1854"6Remove this useless assignment to local variable "PI".(Ÿª€8¿«—ùŸ1
+X
+java:S1854"6Remove this useless assignment to local variable "BR".(Ó‚øÁøÿÿÿÿ8¿«—ùŸ1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÿİ—K8Â«—ùŸ1
+I
+java:S1481"'Remove this unused "BR" local variable.(Ó‚øÁøÿÿÿÿ8Ê«—ùŸ1
+C
+java:S1481"'Remove this unused "PI" local variable.(Ÿª€8Ë«—ùŸ1
+T
+java:S1481"7Remove this unused "ESTADOS_BRASILEIRO" local variable.(­¦¶¾8Ì«—ùŸ1
+O
+java:S1481"-Remove this unused "ANO_2000" local variable.(Æ³äûÿÿÿÿ8Í«—ùŸ1
