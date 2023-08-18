@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Estudo de excecoes e personalizadando exceções">
-      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/EquilibrandoSaldo.java" afterDir="false" />
+    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Primeiro desafio de codigo, Esquilibrando Saldo, sem tratamento de excessoes">
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/OrganizandoSeusAtivos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EquilibrandoSaldo">
+  <component name="RunManager" selected="Application.OrganizandoSeusAtivos">
     <configuration name="EquilibrandoSaldo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="desafioDeCodigos.EquilibrandoSaldo" />
       <module name="BootcampSantander-Java" />
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploForArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.ExemploForArray" />
+    <configuration name="FormatadorDeCEPexemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extruturasDeExcecao.FormatadorDeCEPexemplo" />
       <module name="BootcampSantander-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturasRepeticao.*" />
+          <option name="PATTERN" value="extruturasDeExcecao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormatadorDeCEPexemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extruturasDeExcecao.FormatadorDeCEPexemplo" />
+    <configuration name="OrganizandoSeusAtivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafioDeCodigos.OrganizandoSeusAtivos" />
       <module name="BootcampSantander-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="extruturasDeExcecao.*" />
+          <option name="PATTERN" value="desafioDeCodigos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrganizandoSeusAtivos" />
         <item itemvalue="Application.EquilibrandoSaldo" />
         <item itemvalue="Application.FormatadorDeCEPexemplo" />
         <item itemvalue="Application.ExemploExcecao" />
         <item itemvalue="Application.SobreMim" />
-        <item itemvalue="Application.ExemploForArray" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,7 @@
       <workItem from="1692275892624" duration="1666000" />
       <workItem from="1692279077985" duration="1365000" />
       <workItem from="1692280522235" duration="4980000" />
-      <workItem from="1692364465809" duration="1277000" />
+      <workItem from="1692364465809" duration="3003000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro ola mundo do bootcamp">
       <option name="closed" value="true" />
@@ -205,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692292554656</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Primeiro desafio de codigo, Esquilibrando Saldo, sem tratamento de excessoes">
+      <option name="closed" value="true" />
+      <created>1692366094138</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692366094138</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +238,7 @@
     <MESSAGE value="Estudos sobre estrutura condicional, construcao de um sistema de resultado escolar onde o sistema recebe 3 notas e faz a média, se for maior que 7 o aluno aparece como aprovado, se não o aluno aparece como reprovado." />
     <MESSAGE value="Estrutura de repeticao FOR e Arrays" />
     <MESSAGE value="Estudo de excecoes e personalizadando exceções" />
-    <option name="LAST_COMMIT_MESSAGE" value="Estudo de excecoes e personalizadando exceções" />
+    <MESSAGE value="Primeiro desafio de codigo, Esquilibrando Saldo, sem tratamento de excessoes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro desafio de codigo, Esquilibrando Saldo, sem tratamento de excessoes" />
   </component>
 </project>
