@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Estuando get e set">
-      <change afterPath="$PROJECT_DIR$/src/pilaresDoPOO/veiculos/Autodromo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pilaresDoPOO/veiculos/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pilaresDoPOO/veiculos/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pilaresDoPOO/veiculos/Veiculo.java" afterDir="false" />
+    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Conceitos básicos sobre polimorfismo, abstração e herança">
+      <change afterPath="$PROJECT_DIR$/src/msnMensager/Computador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/msnMensager/MSNMensager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +27,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MariaEduardaLeal"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MariaEduardaLeal&quot;
   }
-}]]></component>
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
@@ -77,7 +75,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Autodromo">
+  <component name="RunManager" selected="Application.Computador">
     <configuration name="Autodromo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pilaresDoPOO.veiculos.Autodromo" />
       <module name="BootcampSantander-Java" />
@@ -97,6 +95,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="desafioDeCodigos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Computador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="msnMensager.Computador" />
+      <module name="BootcampSantander-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="msnMensager.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,26 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrganizandoSeusAtivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafioDeCodigos.OrganizandoSeusAtivos" />
-      <module name="BootcampSantander-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="desafioDeCodigos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Computador" />
         <item itemvalue="Application.Autodromo" />
         <item itemvalue="Application.Escola" />
         <item itemvalue="Application.BancoApp" />
         <item itemvalue="Application.CondicionamenteRico" />
-        <item itemvalue="Application.OrganizandoSeusAtivos" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +166,8 @@
       <workItem from="1692280522235" duration="4980000" />
       <workItem from="1692364465809" duration="7225000" />
       <workItem from="1692541713915" duration="1950000" />
-      <workItem from="1692798927352" duration="2321000" />
+      <workItem from="1692798927352" duration="3673000" />
+      <workItem from="1692814112572" duration="879000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro ola mundo do bootcamp">
       <option name="closed" value="true" />
@@ -274,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692799067261</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Conceitos básicos sobre polimorfismo, abstração e herança">
+      <option name="closed" value="true" />
+      <created>1692802356670</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1692802356670</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,6 +312,7 @@
     <MESSAGE value="Quarto desafio, fazendo a formula do montante" />
     <MESSAGE value="Quinto desafio, fazendo um deposito" />
     <MESSAGE value="Estuando get e set" />
-    <option name="LAST_COMMIT_MESSAGE" value="Estuando get e set" />
+    <MESSAGE value="Conceitos básicos sobre polimorfismo, abstração e herança" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conceitos básicos sobre polimorfismo, abstração e herança" />
   </component>
 </project>
