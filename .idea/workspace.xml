@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Quinto desafio, fazendo um deposito">
-      <change afterPath="$PROJECT_DIR$/src/escola/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/escola/Escola.java" afterDir="false" />
+    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Estuando get e set">
+      <change afterPath="$PROJECT_DIR$/src/pilaresDoPOO/veiculos/Autodromo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pilaresDoPOO/veiculos/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pilaresDoPOO/veiculos/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pilaresDoPOO/veiculos/Veiculo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +29,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MariaEduardaLeal"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="336cc878-30fa-46d4-a10a-e028bcf99a0c" />
+        <option name="url" value="https://github.com/MariaEduardaLeal/SantanderBootcamp-Java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,7 +54,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2U4edlbgJmyPMgRJb6xwUNWQKp9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,7 +77,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Escola">
+  <component name="RunManager" selected="Application.Autodromo">
+    <configuration name="Autodromo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pilaresDoPOO.veiculos.Autodromo" />
+      <module name="BootcampSantander-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pilaresDoPOO.veiculos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BancoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="desafioDeCodigos.BancoApp" />
       <module name="BootcampSantander-Java" />
@@ -75,19 +106,6 @@
     </configuration>
     <configuration name="CondicionamenteRico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="desafioDeCodigos.CondicionamenteRico" />
-      <module name="BootcampSantander-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="desafioDeCodigos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EquilibrandoSaldo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafioDeCodigos.EquilibrandoSaldo" />
       <module name="BootcampSantander-Java" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Autodromo" />
         <item itemvalue="Application.Escola" />
         <item itemvalue="Application.BancoApp" />
         <item itemvalue="Application.CondicionamenteRico" />
         <item itemvalue="Application.OrganizandoSeusAtivos" />
-        <item itemvalue="Application.EquilibrandoSaldo" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +168,7 @@
       <workItem from="1692280522235" duration="4980000" />
       <workItem from="1692364465809" duration="7225000" />
       <workItem from="1692541713915" duration="1950000" />
+      <workItem from="1692798927352" duration="2321000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro ola mundo do bootcamp">
       <option name="closed" value="true" />
@@ -247,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692371675433</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Estuando get e set">
+      <option name="closed" value="true" />
+      <created>1692799067260</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692799067261</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +304,7 @@
     <MESSAGE value="Terceiro desafio de codigo, Condicionalmente Rico" />
     <MESSAGE value="Quarto desafio, fazendo a formula do montante" />
     <MESSAGE value="Quinto desafio, fazendo um deposito" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quinto desafio, fazendo um deposito" />
+    <MESSAGE value="Estuando get e set" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estuando get e set" />
   </component>
 </project>
