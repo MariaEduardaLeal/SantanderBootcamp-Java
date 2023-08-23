@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Terceiro desafio de codigo, Condicionalmente Rico">
-      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/BancoApp.java" afterDir="false" />
+    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Quinto desafio, fazendo um deposito">
+      <change afterPath="$PROJECT_DIR$/src/escola/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/escola/Escola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BancoApp">
+  <component name="RunManager" selected="Application.Escola">
     <configuration name="BancoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="desafioDeCodigos.BancoApp" />
       <module name="BootcampSantander-Java" />
@@ -97,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormatadorDeCEPexemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extruturasDeExcecao.FormatadorDeCEPexemplo" />
+    <configuration name="Escola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="escola.Escola" />
       <module name="BootcampSantander-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="extruturasDeExcecao.*" />
+          <option name="PATTERN" value="escola.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Escola" />
         <item itemvalue="Application.BancoApp" />
         <item itemvalue="Application.CondicionamenteRico" />
         <item itemvalue="Application.OrganizandoSeusAtivos" />
         <item itemvalue="Application.EquilibrandoSaldo" />
-        <item itemvalue="Application.FormatadorDeCEPexemplo" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +148,8 @@
       <workItem from="1692275892624" duration="1666000" />
       <workItem from="1692279077985" duration="1365000" />
       <workItem from="1692280522235" duration="4980000" />
-      <workItem from="1692364465809" duration="6031000" />
+      <workItem from="1692364465809" duration="7225000" />
+      <workItem from="1692541713915" duration="1950000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro ola mundo do bootcamp">
       <option name="closed" value="true" />
@@ -228,7 +231,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692369101801</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Quarto desafio, fazendo a formula do montante">
+      <option name="closed" value="true" />
+      <created>1692370825378</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692370825378</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Quinto desafio, fazendo um deposito">
+      <option name="closed" value="true" />
+      <created>1692371675433</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692371675433</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +275,8 @@
     <MESSAGE value="Primeiro desafio de codigo, Esquilibrando Saldo, sem tratamento de excessoes" />
     <MESSAGE value="Segundo desafio de código,&#10;organizando ativos por ordem alfabética" />
     <MESSAGE value="Terceiro desafio de codigo, Condicionalmente Rico" />
-    <option name="LAST_COMMIT_MESSAGE" value="Terceiro desafio de codigo, Condicionalmente Rico" />
+    <MESSAGE value="Quarto desafio, fazendo a formula do montante" />
+    <MESSAGE value="Quinto desafio, fazendo um deposito" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quinto desafio, fazendo um deposito" />
   </component>
 </project>
