@@ -4,9 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Conceitos básicos sobre polimorfismo, abstração e herança">
-      <change afterPath="$PROJECT_DIR$/src/msnMensager/Computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/msnMensager/MSNMensager.java" afterDir="false" />
+    <list default="true" id="a67df58a-fd6d-40b1-9748-83d6f0f37844" name="Changes" comment="Exemplo de MSN para entender conceitos de POO">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90862cdc7433be4f85803384a42a8224725da39e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bfdc702ccfc5e40db790bf14e8a9b4050ec3b932" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d753973f8c5f37bba232893ca41ec1e88bae0c35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4b986d6626f306d1d30462d0dcf297a6d649be6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/0/90862cdc7433be4f85803384a42a8224725da39e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/f/bfdc702ccfc5e40db790bf14e8a9b4050ec3b932" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/7/d753973f8c5f37bba232893ca41ec1e88bae0c35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/4/f4b986d6626f306d1d30462d0dcf297a6d649be6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/desafiosPOO/abrindoContas/AbrindoConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/desafiosPOO/abrindoContas/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/desafiosPOO/cofresSeguros/Cofre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/desafiosPOO/cofresSeguros/CofreDigital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/desafiosPOO/cofresSeguros/CofreFisico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/desafiosPOO/cofresSeguros/Desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/desafiosPOO/herancaBancaria/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/desafiosPOO/herancaBancaria/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/desafiosPOO/herancaBancaria/Desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/desafiosPOO/reunioesAcionistas/Analise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/desafiosPOO/reunioesAcionistas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/desafiosPOO/reunioesAcionistas/SistemaAcionistas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/desafiosPOO/ultimaTransacao/Desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafioDeCodigos/desafiosPOO/ultimaTransacao/Transacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,29 +84,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Computador">
-    <configuration name="Autodromo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pilaresDoPOO.veiculos.Autodromo" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="desafioDeCodigos.desafiosPOO.reunioesAcionistas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.desafioDeCodigos.desafiosPOO.ultimaTransacao.Desafio">
+    <configuration name="AbrindoConta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafioDeCodigos.desafiosPOO.abrindoContas.AbrindoConta" />
       <module name="BootcampSantander-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pilaresDoPOO.veiculos.*" />
+          <option name="PATTERN" value="desafioDeCodigos.desafiosPOO.abrindoContas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BancoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafioDeCodigos.BancoApp" />
+    <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafioDeCodigos.desafiosPOO.herancaBancaria.Desafio" />
       <module name="BootcampSantander-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="desafioDeCodigos.*" />
+          <option name="PATTERN" value="desafioDeCodigos.desafiosPOO.herancaBancaria.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Computador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="msnMensager.Computador" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafioDeCodigos.desafiosPOO.reunioesAcionistas.Main" />
       <module name="BootcampSantander-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="msnMensager.*" />
+          <option name="PATTERN" value="desafioDeCodigos.desafiosPOO.reunioesAcionistas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CondicionamenteRico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafioDeCodigos.CondicionamenteRico" />
+    <configuration name="desafioDeCodigos.desafiosPOO.cofresSeguros.Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafioDeCodigos.desafiosPOO.cofresSeguros.Desafio" />
       <module name="BootcampSantander-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="desafioDeCodigos.*" />
+          <option name="PATTERN" value="desafioDeCodigos.desafiosPOO.cofresSeguros.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Escola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="escola.Escola" />
+    <configuration name="desafioDeCodigos.desafiosPOO.ultimaTransacao.Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafioDeCodigos.desafiosPOO.ultimaTransacao.Desafio" />
       <module name="BootcampSantander-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="escola.*" />
+          <option name="PATTERN" value="desafioDeCodigos.desafiosPOO.ultimaTransacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Computador" />
-        <item itemvalue="Application.Autodromo" />
-        <item itemvalue="Application.Escola" />
-        <item itemvalue="Application.BancoApp" />
-        <item itemvalue="Application.CondicionamenteRico" />
+        <item itemvalue="Application.desafioDeCodigos.desafiosPOO.ultimaTransacao.Desafio" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.desafioDeCodigos.desafiosPOO.cofresSeguros.Desafio" />
+        <item itemvalue="Application.Desafio" />
+        <item itemvalue="Application.AbrindoConta" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +198,9 @@
       <workItem from="1692364465809" duration="7225000" />
       <workItem from="1692541713915" duration="1950000" />
       <workItem from="1692798927352" duration="3673000" />
-      <workItem from="1692814112572" duration="879000" />
+      <workItem from="1692814112572" duration="3218000" />
+      <workItem from="1692909104501" duration="590000" />
+      <workItem from="1694529511942" duration="12268000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro ola mundo do bootcamp">
       <option name="closed" value="true" />
@@ -281,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692802356670</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Exemplo de MSN para entender conceitos de POO">
+      <option name="closed" value="true" />
+      <created>1692816005697</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1692816005697</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,6 +354,7 @@
     <MESSAGE value="Quinto desafio, fazendo um deposito" />
     <MESSAGE value="Estuando get e set" />
     <MESSAGE value="Conceitos básicos sobre polimorfismo, abstração e herança" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conceitos básicos sobre polimorfismo, abstração e herança" />
+    <MESSAGE value="Exemplo de MSN para entender conceitos de POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exemplo de MSN para entender conceitos de POO" />
   </component>
 </project>
